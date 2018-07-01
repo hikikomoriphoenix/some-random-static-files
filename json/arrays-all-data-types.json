@@ -1,0 +1,16 @@
+{
+  "arrays":[
+             [1, 2, 3, 4, 5],
+             ["a", "b", "c", "d", "e", "f"],
+             [true, false, true]
+           ],
+  "booleans":[true, true, false, false],
+  "doubles":[12.324, 567.234, 63.786],
+  "ints":[123, 456, 789],
+  "longs":[9734953498465, 9832468754687, 347856754684654],
+  "objects":[
+              {"subject":"Math", "grade":99},
+              {"subject":"Filipino", "grade":72}
+            ],
+  "strings":["Doctor", "Lawyer", "Police", "Janitor"]
+}
